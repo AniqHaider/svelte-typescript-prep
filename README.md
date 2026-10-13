@@ -1,5 +1,7 @@
 # svelte-typescript-prep
 
+> **Windows?** See [SETUP-WINDOWS.md](SETUP-WINDOWS.md).
+
 100 multiple-choice questions (50 Svelte / 50 TypeScript, basic → mid) in a small Svelte 5 quiz app.
 Every question has a self-contained explanation: why the right answer is right **and** why the tempting wrong ones fail.
 
